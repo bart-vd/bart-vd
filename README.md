@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Bart Van Dooren, and I'm an amateur web designer and developer, and overall geek. I am currently living in Belgium and working a non-tech job in the insurance industry. In my spare time, I am interested in all things tech.
+Hi, I'm Bart Van Dooren, and I'm an amateur web designer and developer, and overall geek. I am currently living in Belgium, working a non-tech job in the insurance industry. In my spare time, I am interested in all things tech.
 
 Currently, I am working on the new website for my [company](https://www.dannyschellekens.be).
